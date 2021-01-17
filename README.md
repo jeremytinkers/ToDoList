@@ -1,11 +1,10 @@
 # ToDoList
 ---
 
-**`HTML | CSS | JS | EJS | NODE.JS | EXPRESS`**
-**`MONGODB | MONGOOSE`**
+**`HTML | CSS | JS | EJS | NODE.JS | EXPRESS | MONGODB | MONGOOSE`**
 
 ---
-Deployed on Heroku server : https://agile-caverns-94866.herokuapp.com/ 
+Deployed on Heroku server : https://nameless-woodland-15914.herokuapp.com/
 
 ---
 
